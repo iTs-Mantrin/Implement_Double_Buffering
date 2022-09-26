@@ -1,4 +1,4 @@
-# Movable cart 
+# Implement double buffering 
 
 //Implement Double Buffering 
 
